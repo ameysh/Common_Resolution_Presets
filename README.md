@@ -10,12 +10,7 @@ Common_Resolution_Presets is a custom node for [ComfyUI](https://github.com/Comf
 ![Example Screenshot 2](/Screenshots/Screenshot2.png)
 
 ## Installation and Usage
-1. Run the following command inside your ComfyUI's custom_nodes folder -
-
-    `git clone https://github.com/ameysh/Common_Resolution_Presets.git`
-
-    > Alternatively, if you don't wish to use git clone, you can download this project as a ZIP file, extract it, and place the folder into your ComfyUI/custom_nodes folder.
-
+1. [Click here to download.](https://github.com/ameysh/Common_Resolution_Presets/archive/refs/tags/v1.0.0.zip) Then extract the folder, and place it inside your ComfyUI's custom_nodes folder.
 2. Start/Restart ComfyUI for the changes to take effect.
 3. Add the node by searching "Common Resolution Presets" in your Node Library.
 
