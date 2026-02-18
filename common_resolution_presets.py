@@ -12,7 +12,7 @@ class CommonResolutionPresets:
         "Square - 1024x1024 (1:1)": (1024, 1024),
         "Square - 1280x1280 (1:1)": (1280, 1280),
         "Square - 1536x1536 (1:1)": (1536, 1536),
-        "Square - 2048x2048 (1:1)": (2048, 2048),
+        "Square - 2048x2048 (1:1)": (2048, 2048),    
         # LANDSCAPE
         "Landscape - 1152x896 (9:7)": (1152, 896),
         "Landscape - 1152x864 (4:3)": (1152, 864),
@@ -45,6 +45,7 @@ class CommonResolutionPresets:
         "Portrait - 1248x1872 (2:3)": (1248, 1872),
         "Portrait - 1152x2048 (9:16)": (1152, 2048),
         "Portrait - 864x2016 (9:21)": (864, 2016),
+        #Add custom presets below this line
     }
 
     @classmethod
