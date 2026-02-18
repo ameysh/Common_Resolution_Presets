@@ -42,7 +42,6 @@ Custom presets can be easily added by editing the `common_resolution_presets.py`
 
 Below is a simple example of how to add 3072 x 3072 custom resolution.
 ```
-    "
     ...
         "Portrait - 1248x1872 (2:3)": (1248, 1872),
         "Portrait - 1152x2048 (9:16)": (1152, 2048),
